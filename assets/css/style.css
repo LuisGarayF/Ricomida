@@ -1,0 +1,40 @@
+body {
+    font-family: 'Cabin';
+    color:#373A3C;
+}
+
+.logo {
+    font-family: 'Lobster', cursive;
+    font-size:42px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.logo:hover {
+    color: #fff;
+}
+
+.navbar {
+    font-size: 17px;
+}
+.color {
+    background-color: #373A3C;
+    height: 80px;
+}
+
+h1 {
+    font-size: 53px;
+    text-align: left;
+}
+
+.textos{
+ font-size 20px;
+}
+
+.redondo{
+    list-style-type: circle;
+}
+
+.empezar{
+    width: 233px;
+}
